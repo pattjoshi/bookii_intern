@@ -1,0 +1,8 @@
+.heroImage {
+  width: 100%;
+  height: 500px;
+  background-image: url("https://www.travelandleisure.com/thmb/IKYhT-kh-ZxOFqEqpmTxd6jSj1Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/oaxaca-mexico-00-WORLDCITIESWB22-cd886208a23b41178616815629f4dbbd.jpg");
+  background-size: 100% 100%;
+  z-index: -1;
+  position: relative;
+}
